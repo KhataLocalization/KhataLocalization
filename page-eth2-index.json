@@ -2,7 +2,7 @@
   "name" : "Joseph",
   "strings": {
   "eth2-client-cortex-logo-alt": "Cortex logo",
-  "eth2-client-lighthouse-logo-alt": "Lighthouse logo",
+  "eth2-client-lighthouse-logo-alt": "Lighthouse logo","hello",
   "eth2-client-lodestar-logo-alt": "Lodestar logo",
   "eth2-client-nimbus-logo-alt": "Nimbus logo",
   "eth2-client-prysm-logo-alt": "Prysm logo",
