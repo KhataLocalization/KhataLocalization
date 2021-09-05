@@ -1,4 +1,6 @@
 {
+  "Names: : "Joseph",
+  "strings": {
   "eth2-client-cortex-logo-alt": "Cortex logo",
   "eth2-client-lighthouse-logo-alt": "Lighthouse logo",
   "eth2-client-lodestar-logo-alt": "Lodestar logo",
@@ -177,5 +179,6 @@
   "page-eth2-whats-eth2": "What is Eth2?",
   "page-eth2-whats-eth2-desc": "Eth2 refers to a set of interconnected upgrades that will make Ethereum more scalable, more secure, and more sustainable. These upgrades are being built by multiple teams from across the Ethereum ecosystem.",
   "page-eth2-whats-ethereum": "Wait, what's Ethereum?",
-  "page-eth2-whats-new": "What's new in Eth2?"
+  "page-eth2-whats-new": "What's new in Eth2?" 
+  }
 }
